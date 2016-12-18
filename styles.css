@@ -1,0 +1,18 @@
+html{
+    height: 100%;
+}
+
+body {
+    background-image: url("http://i.imgur.com/kcB5kSM.jpg");
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+p {
+    font-family: "Futura", serif;
+}
+h2 {
+    font-family: "Futura", serif;
+}
+ul.topnav {
+    font-family: "Futura",serif
